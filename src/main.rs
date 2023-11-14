@@ -3,6 +3,7 @@ pub mod binary_search;
 mod bubble_sort;
 pub mod linear_search;
 mod queue;
+mod stack;
 mod two_crystal_balls;
 
 fn main() {

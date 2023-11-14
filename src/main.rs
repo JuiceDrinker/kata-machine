@@ -1,4 +1,4 @@
-mod binary_search_tree;
+pub mod linear_search;
 
 fn main() {
     println!("Hello, world!");
